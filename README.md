@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
--He/Him
+##He/Him
 - I enjoy writing, 
 - I collect CDs! (give me your CDs)
 - Philosophy enthusiast
